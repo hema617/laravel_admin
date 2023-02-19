@@ -1,2 +1,2 @@
 # laravel_admin
-creat admin panel
+create admin panel
